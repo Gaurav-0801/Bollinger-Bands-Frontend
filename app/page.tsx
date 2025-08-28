@@ -10,7 +10,7 @@ export default function Page() {
             Bollinger Bands (KLineCharts)
           </h1>
           <a
-            href="https://github.com/klinecharts/klinecharts"
+            href="https://github.com/Gaurav-0801/Bollinger-Bands-Frontend"
             target="_blank"
             rel="noreferrer"
             className="rounded-md border px-3 py-1.5 text-sm opacity-80 transition hover:bg-secondary hover:opacity-100"
